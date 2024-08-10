@@ -3,6 +3,8 @@
 ⬆️ (Replace above with your app's name)
 ```
 
+hi 👋 ☺️ it's ahmed Magdy Co-founder and CEO of AhmedGPT this repository is a copy of streamlit app starter kit 
+
 Description of the app ...
 
 ## Demo App
